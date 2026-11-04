@@ -1,0 +1,101 @@
+OrderID,OrderDate,Product,Category,Region,SalesChannel,CustomerSegment,Quantity,UnitPrice,DiscountPct,Sales
+ORD001,2026-09-24,Headphones,Accessories,Mumbai,Online,Corporate,3,2700,0.0,8100.0
+ORD002,2026-10-17,Keyboard,Accessories,Mumbai,Phone,Small Business,2,1100,0.15,1870.0
+ORD003,2026-07-02,Laptop,Electronics,Nashik,Online,Individual,1,53000,0.15,45050.0
+ORD004,2026-10-10,Headphones,Accessories,Nashik,Retail Store,Individual,7,3700,0.0,25900.0
+ORD005,2026-09-24,Printer,Electronics,Nashik,Retail Store,Corporate,3,13500,0.1,36450.0
+ORD006,2026-10-13,Webcam,Accessories,Chhatrapati Sambhajinagar,Phone,Small Business,2,5600,0.05,10640.0
+ORD007,2026-08-26,Printer,Electronics,Nagpur,Phone,Individual,3,13500,0.0,40500.0
+ORD008,2026-08-15,Headphones,Accessories,Nashik,Retail Store,Small Business,3,2100,0.15,5355.0
+ORD009,2026-09-12,Headphones,Accessories,Nagpur,Phone,Individual,7,2600,0.0,18200.0
+ORD010,2026-07-17,Monitor,Electronics,Pune,Retail Store,Corporate,3,10400,0.05,29640.0
+ORD011,2026-10-28,Printer,Electronics,Pune,Online,Individual,1,11400,0.1,10260.0
+ORD012,2026-07-21,Printer,Electronics,Nagpur,Phone,Small Business,2,15400,0.05,29260.0
+ORD013,2026-09-30,Webcam,Accessories,Mumbai,Phone,Corporate,6,2700,0.15,13770.0
+ORD014,2026-10-19,Monitor,Electronics,Chhatrapati Sambhajinagar,Online,Corporate,2,17200,0.0,34400.0
+ORD015,2026-08-13,Laptop,Electronics,Mumbai,Retail Store,Individual,3,51100,0.15,130305.0
+ORD016,2026-07-09,Keyboard,Accessories,Nagpur,Phone,Corporate,4,1000,0.0,4000.0
+ORD017,2026-09-06,Laptop,Electronics,Pune,Online,Small Business,2,53200,0.0,106400.0
+ORD018,2026-09-11,Mouse,Accessories,Chhatrapati Sambhajinagar,Phone,Individual,5,600,0.05,2850.0
+ORD019,2026-07-01,Printer,Electronics,Nashik,Retail Store,Individual,2,13100,0.0,26200.0
+ORD020,2026-10-14,Printer,Electronics,Nagpur,Online,Corporate,3,13600,0.15,34680.0
+ORD021,2026-09-03,Monitor,Electronics,Mumbai,Phone,Individual,1,11700,0.1,10530.0
+ORD022,2026-08-24,Headphones,Accessories,Chhatrapati Sambhajinagar,Online,Small Business,4,3600,0.05,13680.0
+ORD023,2026-07-27,Monitor,Electronics,Nashik,Retail Store,Individual,2,15500,0.1,27900.0
+ORD024,2026-07-09,Webcam,Accessories,Pune,Phone,Individual,8,4000,0.0,32000.0
+ORD025,2026-09-09,Headphones,Accessories,Nagpur,Retail Store,Individual,8,2100,0.1,15120.0
+ORD026,2026-07-19,Headphones,Accessories,Pune,Online,Small Business,7,4200,0.0,29400.0
+ORD027,2026-09-16,Keyboard,Accessories,Nagpur,Retail Store,Individual,5,1300,0.05,6175.0
+ORD028,2026-09-01,Webcam,Accessories,Nagpur,Phone,Corporate,2,2300,0.05,4370.0
+ORD029,2026-08-07,USB Drive,Accessories,Mumbai,Online,Small Business,6,400,0.15,2040.0
+ORD030,2026-10-25,Keyboard,Accessories,Mumbai,Online,Small Business,1,1100,0.0,1100.0
+ORD031,2026-10-11,Webcam,Accessories,Mumbai,Online,Corporate,6,1900,0.05,10830.0
+ORD032,2026-10-09,Monitor,Electronics,Nagpur,Online,Corporate,1,16500,0.15,14025.0
+ORD033,2026-10-23,USB Drive,Accessories,Pune,Online,Corporate,1,1300,0.15,1105.0
+ORD034,2026-07-20,Keyboard,Accessories,Chhatrapati Sambhajinagar,Retail Store,Small Business,7,1800,0.05,11970.0
+ORD035,2026-07-22,Mouse,Accessories,Pune,Online,Corporate,1,500,0.0,500.0
+ORD036,2026-07-21,Headphones,Accessories,Chhatrapati Sambhajinagar,Phone,Corporate,6,1400,0.1,7560.0
+ORD037,2026-08-09,Headphones,Accessories,Nagpur,Retail Store,Small Business,2,1100,0.0,2200.0
+ORD038,2026-08-27,USB Drive,Accessories,Nashik,Online,Corporate,3,800,0.0,2400.0
+ORD039,2026-08-12,Laptop,Electronics,Mumbai,Online,Small Business,2,55600,0.05,105640.0
+ORD040,2026-08-03,USB Drive,Accessories,Mumbai,Retail Store,Corporate,8,600,0.1,4320.0
+ORD041,2026-10-15,Printer,Electronics,Mumbai,Online,Corporate,2,8900,0.1,16020.0
+ORD042,2026-07-17,Laptop,Electronics,Pune,Online,Corporate,3,54300,0.0,162900.0
+ORD043,2026-09-12,Keyboard,Accessories,Chhatrapati Sambhajinagar,Phone,Individual,2,1600,0.1,2880.0
+ORD044,2026-07-04,Monitor,Electronics,Chhatrapati Sambhajinagar,Online,Corporate,3,17000,0.1,45900.0
+ORD045,2026-10-02,Keyboard,Accessories,Chhatrapati Sambhajinagar,Retail Store,Small Business,3,1600,0.0,4800.0
+ORD046,2026-07-13,Monitor,Electronics,Mumbai,Retail Store,Corporate,1,14200,0.15,12070.0
+ORD047,2026-09-22,Laptop,Electronics,Mumbai,Phone,Individual,2,56600,0.05,107540.0
+ORD048,2026-08-17,USB Drive,Accessories,Mumbai,Retail Store,Small Business,1,700,0.0,700.0
+ORD049,2026-09-14,Keyboard,Accessories,Pune,Retail Store,Corporate,4,1800,0.05,6840.0
+ORD050,2026-07-14,Keyboard,Accessories,Pune,Phone,Corporate,3,1100,0.15,2805.0
+ORD051,2026-08-18,Keyboard,Accessories,Chhatrapati Sambhajinagar,Phone,Small Business,8,700,0.05,5320.0
+ORD052,2026-08-05,USB Drive,Accessories,Nashik,Retail Store,Corporate,8,500,0.15,3400.0
+ORD053,2026-09-13,Mouse,Accessories,Pune,Retail Store,Small Business,6,400,0.1,2160.0
+ORD054,2026-08-22,Headphones,Accessories,Nagpur,Phone,Corporate,8,1000,0.1,7200.0
+ORD055,2026-07-01,Laptop,Electronics,Mumbai,Phone,Small Business,2,44000,0.0,88000.0
+ORD056,2026-10-28,Headphones,Accessories,Chhatrapati Sambhajinagar,Retail Store,Individual,4,4200,0.1,15120.0
+ORD057,2026-09-22,Monitor,Electronics,Mumbai,Online,Corporate,1,16000,0.0,16000.0
+ORD058,2026-07-21,USB Drive,Accessories,Pune,Online,Corporate,4,1400,0.05,5320.0
+ORD059,2026-08-25,Keyboard,Accessories,Chhatrapati Sambhajinagar,Online,Corporate,1,800,0.0,800.0
+ORD060,2026-07-20,USB Drive,Accessories,Pune,Online,Small Business,8,500,0.15,3400.0
+ORD061,2026-07-12,Laptop,Electronics,Nagpur,Retail Store,Small Business,3,55200,0.0,165600.0
+ORD062,2026-10-12,Headphones,Accessories,Chhatrapati Sambhajinagar,Phone,Corporate,5,2400,0.05,11400.0
+ORD063,2026-07-13,USB Drive,Accessories,Pune,Online,Individual,5,800,0.0,4000.0
+ORD064,2026-10-12,Mouse,Accessories,Mumbai,Phone,Small Business,5,900,0.0,4500.0
+ORD065,2026-09-15,Mouse,Accessories,Pune,Online,Corporate,8,300,0.1,2160.0
+ORD066,2026-08-31,USB Drive,Accessories,Nashik,Retail Store,Individual,8,600,0.0,4800.0
+ORD067,2026-09-28,Laptop,Electronics,Pune,Retail Store,Small Business,2,60200,0.0,120400.0
+ORD068,2026-09-19,Laptop,Electronics,Chhatrapati Sambhajinagar,Online,Individual,1,52700,0.0,52700.0
+ORD069,2026-07-03,Webcam,Accessories,Nashik,Retail Store,Small Business,7,2400,0.1,15120.0
+ORD070,2026-07-19,Webcam,Accessories,Mumbai,Phone,Individual,4,6200,0.0,24800.0
+ORD071,2026-09-01,USB Drive,Accessories,Nagpur,Phone,Individual,7,400,0.0,2800.0
+ORD072,2026-10-10,Keyboard,Accessories,Nagpur,Retail Store,Small Business,1,1900,0.1,1710.0
+ORD073,2026-08-01,USB Drive,Accessories,Nagpur,Online,Corporate,2,800,0.15,1360.0
+ORD074,2026-07-14,Laptop,Electronics,Chhatrapati Sambhajinagar,Phone,Corporate,2,62000,0.1,111600.0
+ORD075,2026-07-06,Printer,Electronics,Chhatrapati Sambhajinagar,Phone,Individual,1,16000,0.15,13600.0
+ORD076,2026-09-02,Laptop,Electronics,Nashik,Retail Store,Individual,2,48100,0.0,96200.0
+ORD077,2026-10-17,Webcam,Accessories,Chhatrapati Sambhajinagar,Online,Small Business,8,2700,0.1,19440.0
+ORD078,2026-07-08,Monitor,Electronics,Nagpur,Retail Store,Individual,3,13500,0.1,36450.0
+ORD079,2026-07-05,Monitor,Electronics,Pune,Phone,Individual,2,15200,0.0,30400.0
+ORD080,2026-08-20,Printer,Electronics,Nagpur,Phone,Individual,3,13200,0.15,33660.0
+ORD081,2026-09-14,Printer,Electronics,Nagpur,Online,Corporate,2,7600,0.1,13680.0
+ORD082,2026-09-20,Laptop,Electronics,Mumbai,Online,Corporate,3,43500,0.1,117450.0
+ORD083,2026-10-20,Mouse,Accessories,Mumbai,Retail Store,Small Business,7,300,0.15,1785.0
+ORD084,2026-08-05,Laptop,Electronics,Nagpur,Phone,Individual,1,52600,0.0,52600.0
+ORD085,2026-09-11,Keyboard,Accessories,Pune,Retail Store,Individual,1,1100,0.0,1100.0
+ORD086,2026-07-01,Printer,Electronics,Chhatrapati Sambhajinagar,Phone,Individual,3,8900,0.1,24030.0
+ORD087,2026-10-01,Mouse,Accessories,Chhatrapati Sambhajinagar,Online,Small Business,2,600,0.0,1200.0
+ORD088,2026-08-18,Keyboard,Accessories,Chhatrapati Sambhajinagar,Online,Corporate,1,1300,0.0,1300.0
+ORD089,2026-08-27,Printer,Electronics,Chhatrapati Sambhajinagar,Phone,Individual,2,15100,0.0,30200.0
+ORD090,2026-10-01,Keyboard,Accessories,Nagpur,Phone,Individual,2,1400,0.15,2380.0
+ORD091,2026-10-08,USB Drive,Accessories,Nashik,Retail Store,Small Business,7,1300,0.0,9100.0
+ORD092,2026-07-31,Laptop,Electronics,Mumbai,Retail Store,Individual,2,44700,0.1,80460.0
+ORD093,2026-09-16,Printer,Electronics,Chhatrapati Sambhajinagar,Phone,Corporate,3,9200,0.05,26220.0
+ORD094,2026-08-24,Laptop,Electronics,Nashik,Online,Small Business,3,58900,0.0,176700.0
+ORD095,2026-07-13,Laptop,Electronics,Mumbai,Online,Small Business,2,59700,0.05,113430.0
+ORD096,2026-07-15,Printer,Electronics,Nashik,Online,Corporate,1,6800,0.0,6800.0
+ORD097,2026-09-30,Keyboard,Accessories,Pune,Retail Store,Corporate,8,2200,0.15,14960.0
+ORD098,2026-10-03,Laptop,Electronics,Nashik,Online,Small Business,2,57800,0.15,98260.0
+ORD099,2026-07-20,USB Drive,Accessories,Pune,Phone,Individual,4,500,0.05,1900.0
+ORD100,2026-08-06,Mouse,Accessories,Nagpur,Online,Small Business,5,600,0.1,2700.0
